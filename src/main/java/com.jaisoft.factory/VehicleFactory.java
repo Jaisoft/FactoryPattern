@@ -1,3 +1,6 @@
+package com.jaisoft.factory;
+
+
 public class VehicleFactory {
 
     public Vehicle getVehicle(String vehicleType){
